@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="donquixotesabo.github.io/windbnb/">
+    <a href="https://donquixotesabo.github.io/Windbnb/">
       Demo
     </a>
     <span> | </span>
